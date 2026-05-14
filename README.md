@@ -76,9 +76,14 @@ An interactive quiz designed to verify the user’s understanding of the present
 ## Technologies Used
 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
+- React
+- JSX
+- Babel
 - Gemini Canvas
+
+  The project is built as a single HTML file, but the main application logic is written in JavaScript using React and JSX. Tailwind CSS is used for styling, while Babel is included to compile JSX directly in the browser.
 
 ## Role of Gemini Canvas
 
