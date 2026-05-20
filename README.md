@@ -1,6 +1,6 @@
 # Functional Testing Training & Quiz
 
-This project is an interactive e-learning web page designed for new testers joining the peviitor.ro project. Created with the help of Gemini Canvas, it introduces the core concepts of functional testing in a structured and easy-to-understand format. The training includes practical examples, clear explanations, and an interactive quiz section for knowledge verification, helping new team members quickly understand testing fundamentals and project-specific quality assurance practices. 
+This project is an interactive e-learning web page designed for new testers joining the https://peviitor.ro/ project. Created with the help of Gemini Canvas, it introduces the core concepts of functional testing in a structured and easy-to-understand format. The training includes practical examples, clear explanations, and an interactive quiz section for knowledge verification, helping new team members quickly understand testing fundamentals and project-specific quality assurance practices. 
 
 ## What I Built
 
